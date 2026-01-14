@@ -71,9 +71,3 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
   </a>
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michalkassa&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
