@@ -1,18 +1,15 @@
-# Hi 👋, I'm Michal Kassa  
+# Hello 👋
 
-🚀 Full-Stack Developer | 💻 Tech Enthusiast | 
+🚀 Aspiring Software Engineer | 💻 Tech Enthusiast | 
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **Web Development & Full-Stack Projects**  
-- 🌱 I’m currently learning **Advanced React, Backend Systems & DevOps**  
-- 👯 I’m looking to collaborate on **Open Source & Innovative Tech Projects**  
-- 🤔 I’m looking for help with **System Design & Scalable Applications**  
-- 💬 Ask me about **Web Development, Programming & Linux**  
-- 📫 How to reach me: **your-email@example.com**  
-- ⚡ Fun fact: **I love building things that solve real-world problems!**  
+- 🔭 I’m currently working on **Web Dev and a Voxel engine**  
+- 🌱 I’m currently learning **React Native and Opengl**    
+- 📫 How to reach me: **michal.kassa2006@gmail.com**  
+- ⚡ **I love building things that solve real-world problems!**  
 
 ---
 
@@ -74,23 +71,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michalkasssa&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Michalkasssa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Michalkasssa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/u/michalkassa](https://www.linkedin.com/in/michalkassa/))
 
 ---
 
